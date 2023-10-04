@@ -62,7 +62,7 @@ Let's walk through an example of how to use the application to securely encrypt 
    - Once you've selected the input file and specified the output location, click the "Encrypt" button. The application will use the generated Fernet key to encrypt the selected file.
 
 <div style="text-align:center">
-    <img src="https://github.com/hasanfirnas/Secure-file-encrypt-decrypt/assets/63351774/f35e1fa4-7cd7-49c0-ad87-a08336c2c13d" width="600" alt="Example">
+       <img src="https://github.com/hasanfirnas/Secure-file-encrypt-decrypt/assets/63351774/f35e1fa4-7cd7-49c0-ad87-a08336c2c13d" width="600" alt="Example">
 </div>
 
 6. **Decrypt the File (Optional):**
